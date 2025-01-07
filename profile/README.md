@@ -11,7 +11,7 @@
 3. 다른 사람의 문제 풀이에 대한 피드백을 일요일까지 진행
 
 ## 💻 코딩테스트 스케줄
-**250106 ~ 250110 정렬** [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+**25.01.06 ~ 25.01.10 정렬** [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 
 ## 🥨readme 작성 예시
 
