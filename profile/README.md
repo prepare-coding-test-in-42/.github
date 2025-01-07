@@ -6,7 +6,7 @@
 ## ⚒️ 코딩테스트
 1. [프로그래머스 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 에서 하나씩 골라 진행
 - 일주일에 kit 안에 있는 문제 진행
-2. 금요일까지 문제를 풀어 자신의 repo에 '수도 코드, 시간 복잡도, 문제 소요 시간'에 대한 Readme로 작성
+2. 목요일 20시까지 문제를 풀어 자신의 repo에 '수도 코드, 시간 복잡도, 문제 소요 시간'에 대한 Readme로 작성
 - 일주일 마다, repo의 브렌치를 파서, 문제 풀이가 끝나면 pull request 통해 리뷰 받는 형식
 3. 다른 사람의 문제 풀이에 대한 피드백을 일요일까지 진행
 
