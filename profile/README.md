@@ -16,8 +16,8 @@
 ## 🥨readme 작성 예시
 
 ## Pull Request 제목 형식
-** [이름] 2025 week N **
-- ex) [박수환] 2025 week2
+** 월 week N **
+- ex) JAN week2
 ### 안전지대_2468
 ### 소요 시간
 30분 (아주 쉬웠어영)
