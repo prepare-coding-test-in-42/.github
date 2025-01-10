@@ -19,8 +19,14 @@
 
 ## 💻 코딩테스트 스케줄
 
-- **25.01.06 ~ 25.01.10: 정렬**
+- **25.01.06 ~ 25.01.09: 정렬**
   - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- **25.01.10 ~ 25.01.13: 해시**
+  - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+  - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+  - [전화 번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+  - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+  - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ## 📑 Pull Request 제목 형식
 - **월 week N**
